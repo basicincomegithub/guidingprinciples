@@ -41,5 +41,5 @@ We struggle to agree on the specifics. We need to define for ourselves as a move
 
 Basic Income Vancouver has adopted these five principles as a framework for thinking about and discussing Basic Income. It helps us.
 
-1
+2
 github: basicincomegithub/guidingprinciples
